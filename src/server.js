@@ -2,8 +2,14 @@ const express = require("express")
 const server = express()
 const routes = require('./routes.js')
 
+// usando template engine
+server.set('view engine', 'ejs')
+
 //habilitar arquivos estaticos
 server.use(express.static('public'))
+
+// usar o req.body
+server.use(express.urlencoded({ extended: true }))
 
 // routes
 server.use(routes)
