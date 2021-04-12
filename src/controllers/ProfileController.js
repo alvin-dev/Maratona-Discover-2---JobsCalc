@@ -1,5 +1,3 @@
-// 51:05
-
 const Profile = require('../model/Profile')
 
 module.exports = {
