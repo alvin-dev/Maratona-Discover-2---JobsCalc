@@ -29,10 +29,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 - NodeJS
-- EJS
 - Express
-- SQLite
-- Beekeeper
+- EJS (https://ejs.co/)
+- SQLite (https://www.sqlite.org/index.html)
+- Beekeeper: Software editor de Banco de Dados (https://www.beekeeperstudio.io/)
 
 ## 💻 Projeto
 
