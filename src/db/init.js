@@ -47,14 +47,16 @@ const initDb = {
             monthly_budget,
             days_per_week,
             hours_per_day,
-            vacation_per_year
+            vacation_per_year,
+            value_hour
         ) VALUES (
             "Alvaro",
             "https://github.com/alvin-dev.png",
             3000,
             5,
             5,
-            4
+            4,
+            70
         );`) // OBS: ponto e virgula no final é importante
 
         await db.run(`INSERT INTO jobs (

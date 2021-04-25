@@ -3,9 +3,9 @@ const JobUtils = require('../utils/JobUtils')
 const Profile = require('../model/Profile')
 
 module.exports = {
-    index(req, res) {
-        const jobs = Job.get();
-        const profile = Profile.get()
+    async index(req, res) {
+        const jobs = await Job.get();
+        const profile = await Profile.get()
         // mapeia os objetos do jobs e nomeia como job
 
         let statusCount = {
