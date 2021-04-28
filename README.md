@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalar">Instalar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -36,7 +37,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :coffee: Instalar 
 
+Clone o repositório para sua máquina.
 
+```
+git@github.com:alvin-dev/Maratona-Discover-2-JobsCalc.git
+```
+
+No diretório raíz do projeto, use seu gerenciador de pacotes para instalar todas as dependências necessárias.
+
+> [Yarn](https://yarnpkg.com/)
+
+
+> [NPM](https://www.npmjs.com/) 
 
 ## 💻 Projeto
 
