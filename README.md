@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - SQLite (https://www.sqlite.org/index.html)
 - Beekeeper: Software editor de Banco de Dados (https://www.beekeeperstudio.io/)
 
-## :coffee: Instalar
+## :coffee: Instalar 
 
 
 
