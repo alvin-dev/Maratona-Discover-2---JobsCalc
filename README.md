@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalar">Instalar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#coffee-instalar">Instalar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -45,10 +45,40 @@ git@github.com:alvin-dev/Maratona-Discover-2-JobsCalc.git
 
 No diretório raíz do projeto, use seu gerenciador de pacotes para instalar todas as dependências necessárias.
 
-> [Yarn](https://yarnpkg.com/)
+[YARN](https://yarnpkg.com/)
+```
+yarn
+```
 
+[NPM](https://www.npmjs.com/) 
+```
+npm install
+```
 
-> [NPM](https://www.npmjs.com/) 
+Rode o script uma única vez para gerar o arquivo do banco de dados sqlite.
+
+[YARN](https://yarnpkg.com/)
+```
+yarn init-db
+```
+
+[NPM](https://www.npmjs.com/) 
+```
+npm run init-db
+```
+
+Rodar o servidor.
+
+[YARN](https://yarnpkg.com/)
+```
+yarn dev
+```
+
+[NPM](https://www.npmjs.com/) 
+```
+npm run dev
+```
+
 
 ## 💻 Projeto
 
