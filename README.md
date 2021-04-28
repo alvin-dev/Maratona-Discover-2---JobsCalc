@@ -37,13 +37,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :coffee: Instalar 
 
-Clone o repositório para sua máquina.
+>Clone o repositório para sua máquina.
 
 ```
 git@github.com:alvin-dev/Maratona-Discover-2-JobsCalc.git
 ```
 
-No diretório raíz do projeto, use seu gerenciador de pacotes para instalar todas as dependências necessárias.
+> No diretório raíz do projeto, use seu gerenciador de pacotes para instalar todas as dependências necessárias.
 
 [YARN](https://yarnpkg.com/)
 ```
@@ -55,7 +55,7 @@ yarn
 npm install
 ```
 
-Rode o script uma única vez para gerar o arquivo do banco de dados sqlite.
+> Rode o script uma única vez para gerar o arquivo do banco de dados sqlite.
 
 [YARN](https://yarnpkg.com/)
 ```
@@ -67,7 +67,7 @@ yarn init-db
 npm run init-db
 ```
 
-Rodar o servidor.
+> Rodar o servidor.
 
 [YARN](https://yarnpkg.com/)
 ```
